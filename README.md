@@ -78,8 +78,7 @@ The network scanner identifies important information about the current network e
 [+] Gateway   : 192.168.1.1
 [+] Network   : 192.168.1.0/24
 
-
----
+```
 
 ## 2. 🔐 Router Security Audit
 
@@ -459,8 +458,8 @@ wifi-security-hardener-combined/
 ### Minimum
 
 - Computer/Laptop
-- 4 GB RAM
-- 10 GB free storage
+- 2 GB RAM
+- 5 GB free storage
 - Network interface
 - Router/network for authorized testing
 
@@ -522,7 +521,7 @@ pip install -r requirements.txt
 ## Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/wifi-security-hardener-combined.git
+git clone https://github.com/nandha-k-pixel/wifi-security-hardener-combined.git
 ```
 
 Enter the project directory:
